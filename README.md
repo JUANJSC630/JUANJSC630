@@ -21,7 +21,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="nestjs logo"  />
+  <img src="https://utfs.io/f/72dc85c6-d4f2-402e-a451-bbdba9557ca1-af0li0.png" height="30" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
   <img width="12" />
