@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Frontend Developer dedicated to creating visually appealing 🎨 and engaging user experiences 🎉. I specialize in JavaScript and React ⚛️, and I have experience working with TypeScript, Laravel, Next.js, NestJS, and Node.js 🛠️.<br><br>In addition to my frontend skills, I have a strong background in API creation using NestJS and Laravel 🌐. I also manage websites deployed on WordPress using Elementor, and I develop custom themes for WordPress with Sage, focusing on efficient data handling and form submission 💻.<br><br>My goal is to blend aesthetic design with functionality, ensuring that every project I work on is both beautiful and user-friendly 🌟.</h3>
+<h3 align="left">Frontend Developer dedicated to creating visually appealing 🎨 user experiences. I am passionate about development with Next.js and React ⚛️, and I have experience working with JavaScript, TypeScript, and Laravel 🛠️.<br><br>In addition to my frontend skills, I have knowledge in API creation using Laravel 🌐. I also manage websites deployed on WordPress using Elementor, and develop custom themes for WordPress with Sage, focusing on efficient data handling and form submission 💻.<br><br>My goal is to blend aesthetic design with functionality, ensuring that every project I work on is both beautiful and user-friendly.🌟.</h3>
 
 ###
 
