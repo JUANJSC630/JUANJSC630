@@ -21,8 +21,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://utfs.io/f/72dc85c6-d4f2-402e-a451-bbdba9557ca1-af0li0.png" height="30" alt="nestjs logo"  />
-  <img width="12" />
   <img src="https://utfs.io/f/e488c244-9a17-4467-b756-b1912d6ac58d-rw48qz.png" height="30" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
