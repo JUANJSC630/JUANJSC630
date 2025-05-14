@@ -1,5 +1,16 @@
+# 👋 Welcome!
+
+Hi there! I'm excited to share a little about myself with you. Whether you're here to collaborate, learn more about my work, or just curious, I hope you find this space engaging and informative. Let's dive in! 🚀
+
+---
+
 # 💫 About Me:
-Sobre mí:<br>🏗️ Actualmente estoy trabajando en: Desarrollar aplicaciones web atractivas y funcionales utilizando React y Laravel.<br><br>🤝 Estoy buscando colaborar en: Proyectos que combinen diseño visual impactante con backend robusto, especialmente en el ámbito de aplicaciones web.<br><br>👐 Estoy buscando ayuda con: Mejorar mis habilidades en DevOps e implementar prácticas CI/CD para optimizar flujos de trabajo.<br><br>🌱 Actualmente estoy aprendiendo: Tecnologías relacionadas con la nube como AWS y la automatización de despliegues.<br><br>💬 Pregúntame sobre: Cómo crear interfaces visualmente atractivas y eficientes en React, o cómo estructurar aplicaciones backend sólidas con Laravel.<br><br>⚡ Dato curioso: Además de programar, me encanta la fotografía y encontrar inspiración en la naturaleza para mis diseños web.
+
+My main activities involve developing modern web applications using **React** for the frontend and **Laravel** for the backend, focusing on creating attractive interfaces and scalable systems. I enjoy collaborating on projects that integrate technologies like **React**, **Laravel**, **Node.js**, and databases such as **MySQL** or **PostgreSQL**, where I can contribute my full-stack expertise.
+
+I am currently looking to improve my **DevOps** skills, dive deeper into deployment automation with **CI/CD**, and explore cloud tools like **AWS**. At the same time, I am expanding my knowledge of **TypeScript** to write more robust code and exploring modern backend solutions like **Supabase**.
+
+Feel free to ask me about implementing full-stack applications with **React**, **TailwindCSS**, **Laravel**, and robust database management, or optimizing user experience with dynamic interfaces. Beyond my passion for technology, I enjoy photography and often find inspiration in nature for my design and development projects.
 
 
 ## 🌐 Socials:
