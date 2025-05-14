@@ -12,6 +12,8 @@ My main activities involve developing modern web applications using **React** fo
 
 Feel free to ask me about implementing full-stack applications with **React**, **TailwindCSS**, **Laravel**, and robust database management, or optimizing user experience with dynamic interfaces. Beyond coding, I'm also passionate about photography and often draw inspiration from nature for my web designs.
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 ---
 
 
@@ -25,5 +27,3 @@ Feel free to ask me about implementing full-stack applications with **React**, *
 ![](https://github-readme-stats.vercel.app/api?username=JUANJSC630&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JUANJSC630&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JUANJSC630&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
